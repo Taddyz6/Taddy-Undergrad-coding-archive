@@ -1,0 +1,82 @@
+Database Name: TermProject
+DB_URL = "jdbc:mysql://127.0.0.1:3306/?user=root"
+User = "root"
+my password = "220727zjh"
+
+
+1. Compare Subgroup Statistics for a Specific State
+
+SELECT ss.Subgroup, AVG(ss.Value) AS AverageValue
+FROM State_Subgroup ss
+WHERE ss.State = 'California'
+GROUP BY ss.Subgroup
+ORDER BY AverageValue DESC;
+
+
+2. Find Indicators Related to a Specific Subgroup
+
+SELECT sm.Indicator
+FROM Subgroup_Mapping sm
+WHERE sm.Subgroup = '18 - 29 years';
+
+
+3. Find Average Values for a Specific Indicator by State
+
+SELECT hi.State, AVG(hi.Value) AS AverageValue
+FROM Health_Indicator hi
+WHERE hi.Indicator = 'Uninsured at the Time of Interview'
+GROUP BY hi.State;
+
+
+4. Analyze Trends Over Time for an Indicator
+
+SELECT hi.Time_Period, AVG(hi.Value) AS AverageValue
+FROM Health_Indicator hi
+WHERE hi.Indicator = 'Private Health Insurance Coverage'
+GROUP BY hi.Time_Period
+ORDER BY hi.Time_Period;
+
+
+5. Compare Subgroup Values Across States
+
+SELECT ss.State, AVG(ss.Value) AS AverageValue
+FROM State_Subgroup ss
+WHERE ss.Subgroup = '18 - 29 years'
+GROUP BY ss.State
+ORDER BY AverageValue DESC;
+
+
+6. Aggregate Statistics Across All States
+
+SELECT Indicator, AVG(Value) AS AverageValue, MAX(Value) AS Max, MIN(Value) AS Min
+FROM Health_Indicator
+GROUP BY Indicator;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
