@@ -1,0 +1,32 @@
+1.Warmup Activity
+    (a)10  80  84
+    (b)the integer1 is plus 1 so the output is 11
+    (c)the output is same, output is 11
+    (d)No,the ouput is different, output is 10
+    (e)they are different because we change the valueof the integer1 by using with integer1++. In the (d),we just change the p2 which is the pointer address of the p1. So the address is change but the value of integer1 is not change
+
+    (a)The variable p2 is declared as a pointer to a pointer to an integer (int **). It can be used to store the address of a pointer to an integer.
+    (b)The program is not compile. Because we cannot make pointer to pointer. These types are not compatible, the types is mismatch.
+
+
+
+2.Arrays and Pointers Activity
+    (a)The type of the iarray variable is an array of integers
+    (b)The iarray variable is an array of integers, and it can store ten integer values. It's store the values from 0 to 9 in its elements.
+    (c)Dereferencing iarray will get the value of first element
+    (d)The output of the program will be ten lines of numbers from 0 to 9
+    (e)The output is not change,because this is using the pointer p1 to assign the values from the 0 to 9.
+    (f)The output is not change,because this is using the pointer p1 to access and print the values stored to the address.
+
+
+
+3.Functions and Pointers Activity
+    (a)The output is 22, as the main function initialized value 44. when using divBy2 function means that we will change the value on the address of x. So after divided by 2, *np will change to be 22.
+    (b)Use as function parameter because the divBy2 function is designed to modify the value of the variable passed to it. So it takes a pointer to an integer(int *np)as a parameter, and this pointer allows the function to operate directly on the variable.
+
+
+
+4.Const Pointers Activity
+    (a)The first and the second statements are valid
+    (b)The first and the third are valid, But the second is not valid because the pointer p2 is a constant integer, so we cannot use pointer to modify the value.
+    (c)The first is valid, But the second and the third are invalid. Because the pointer and the integer are all declared as constant. So we cannot modify the value by p3 and also change the address.

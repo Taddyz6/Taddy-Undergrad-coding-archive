@@ -1,0 +1,43 @@
+1.
+(a) char  1 bytes
+(b) char *  8 bytes
+(c) short  2 bytes
+(d) short * 8 bytes
+(e) int  4 bytes
+(f) int *  8 bytes
+(g) long  8 bytes
+(h) long *  8 bytes
+(i) int **  8 bytes
+(j) int ***  8 bytes
+
+2.
+int i = 5;
+int* ip = &i;
+printf("%p\n", (void*) ip); // (a)
+printf("%p\n", (void*) (ip + 1)); // (b)
+printf("%p\n", (void*) (ip + 2)); // (c)
+printf("%p\n", (void*) (ip + 3)); // (d)
+printf("%p\n", (void*) (ip + 4)); // (e)
+
+First Run:
+0x7ffe0e269b94
+0x7ffe0e269b98
+0x7ffe0e269b9c
+0x7ffe0e269ba0
+0x7ffe0e269ba4
+
+Second Run:
+0x7fff8bee0f14
+0x7fff8bee0f18
+0x7fff8bee0f1c
+0x7fff8bee0f20
+0x7fff8bee0f24
+
+Third Run:
+0x7fff2dbb6624
+0x7fff2dbb6628
+0x7fff2dbb662c
+0x7fff2dbb6630
+0x7fff2dbb6634
+
+(f)The output for each run is different. Because the memory of the data is different between runs and systems. So by different of those the addresses also have difference.

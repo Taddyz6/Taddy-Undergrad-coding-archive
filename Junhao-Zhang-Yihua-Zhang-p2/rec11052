@@ -1,0 +1,12 @@
+Junhao-Zhang-Yihua-Zhang-p2/:
+total 48
+-rw-r--r--. 1 myid  835 Oct 17 12:08 README
+-rw-r--r--. 1 myid   81 Oct 17 12:16 file1.txt
+-rw-r--r--. 1 myid   55 Oct 17 12:10 file2.txt
+-rwxr-xr-x. 1 myid 8752 Oct 17 12:09 head
+-rw-r--r--. 1 myid 1342 Oct 17 11:53 head.c
+-rw-r--r--. 1 myid  144 Oct 17 11:57 makefile
+-rw-r--r--. 1 myid    0 Nov  3 12:04 rec11052
+-rwxr-xr-x. 1 myid 8616 Oct 17 12:09 wc
+-rw-r--r--. 1 myid 1793 Oct 17 11:53 wc.c
+/home/myid/jz67385/Junhao-Zhang-Yihua-Zhang-p2/:/home/myid/csci-1730

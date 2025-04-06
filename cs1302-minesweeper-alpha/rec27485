@@ -1,0 +1,122 @@
+cs1302-minesweeper-alpha:
+总用量 2552
+drwxr-xr-x. 3 myid      28 2月  12 21:01 bin
+drwxr-xr-x. 2 myid    4096 2月   9 12:09 examples
+-rw-r--r--. 1 myid 2525747 2月   9 12:09 mine.jpg
+-rw-r--r--. 1 myid   65586 2月   9 12:09 README.md
+-rw-r--r--. 1 myid       0 2月  13 20:43 rec27485
+drwxr-xr-x. 2 myid      80 2月   9 12:09 resources
+drwxr-xr-x. 3 myid      28 2月   9 12:09 src
+drwxr-xr-x. 2 myid    4096 2月  13 02:05 tests
+-rw-r--r--. 1 myid    7236 2月   9 12:09 uml_diagram.asta
+
+cs1302-minesweeper-alpha/bin:
+总用量 0
+drwxr-xr-x. 3 myid 26 2月  12 21:01 cs1302
+
+cs1302-minesweeper-alpha/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 78 2月  12 21:01 game
+
+cs1302-minesweeper-alpha/bin/cs1302/game:
+总用量 16
+-rw-r--r--. 1 myid   618 2月  13 20:39 MinesweeperDriver.class
+-rw-r--r--. 1 myid 10894 2月  13 20:39 MinesweeperGame.class
+
+cs1302-minesweeper-alpha/examples:
+总用量 144
+-rw-r--r--. 1 myid 484 2月   9 12:09 10-by-10.txt
+-rw-r--r--. 1 myid 264 2月   9 12:09 10-by-5.txt
+-rw-r--r--. 1 myid 308 2月   9 12:09 10-by-6.txt
+-rw-r--r--. 1 myid 352 2月   9 12:09 10-by-7.txt
+-rw-r--r--. 1 myid 396 2月   9 12:09 10-by-8.txt
+-rw-r--r--. 1 myid 440 2月   9 12:09 10-by-9.txt
+-rw-r--r--. 1 myid 264 2月   9 12:09 5-by-10.txt
+-rw-r--r--. 1 myid 144 2月   9 12:09 5-by-5.txt
+-rw-r--r--. 1 myid 168 2月   9 12:09 5-by-6.txt
+-rw-r--r--. 1 myid 192 2月   9 12:09 5-by-7.txt
+-rw-r--r--. 1 myid 216 2月   9 12:09 5-by-8.txt
+-rw-r--r--. 1 myid 240 2月   9 12:09 5-by-9.txt
+-rw-r--r--. 1 myid 308 2月   9 12:09 6-by-10.txt
+-rw-r--r--. 1 myid 168 2月   9 12:09 6-by-5.txt
+-rw-r--r--. 1 myid 196 2月   9 12:09 6-by-6.txt
+-rw-r--r--. 1 myid 224 2月   9 12:09 6-by-7.txt
+-rw-r--r--. 1 myid 252 2月   9 12:09 6-by-8.txt
+-rw-r--r--. 1 myid 280 2月   9 12:09 6-by-9.txt
+-rw-r--r--. 1 myid 352 2月   9 12:09 7-by-10.txt
+-rw-r--r--. 1 myid 192 2月   9 12:09 7-by-5.txt
+-rw-r--r--. 1 myid 224 2月   9 12:09 7-by-6.txt
+-rw-r--r--. 1 myid 256 2月   9 12:09 7-by-7.txt
+-rw-r--r--. 1 myid 288 2月   9 12:09 7-by-8.txt
+-rw-r--r--. 1 myid 320 2月   9 12:09 7-by-9.txt
+-rw-r--r--. 1 myid 396 2月   9 12:09 8-by-10.txt
+-rw-r--r--. 1 myid 216 2月   9 12:09 8-by-5.txt
+-rw-r--r--. 1 myid 252 2月   9 12:09 8-by-6.txt
+-rw-r--r--. 1 myid 288 2月   9 12:09 8-by-7.txt
+-rw-r--r--. 1 myid 324 2月   9 12:09 8-by-8.txt
+-rw-r--r--. 1 myid 360 2月   9 12:09 8-by-9.txt
+-rw-r--r--. 1 myid 440 2月   9 12:09 9-by-10.txt
+-rw-r--r--. 1 myid 240 2月   9 12:09 9-by-5.txt
+-rw-r--r--. 1 myid 280 2月   9 12:09 9-by-6.txt
+-rw-r--r--. 1 myid 320 2月   9 12:09 9-by-7.txt
+-rw-r--r--. 1 myid 360 2月   9 12:09 9-by-8.txt
+-rw-r--r--. 1 myid 400 2月   9 12:09 9-by-9.txt
+
+cs1302-minesweeper-alpha/resources:
+总用量 12
+-rw-r--r--. 1 myid  235 2月   9 12:09 gameover.txt
+-rw-r--r--. 1 myid 1777 2月   9 12:09 gamewon.txt
+-rw-r--r--. 1 myid  303 2月   9 12:09 welcome.txt
+
+cs1302-minesweeper-alpha/src:
+总用量 0
+drwxr-xr-x. 3 myid 26 2月   9 12:09 cs1302
+
+cs1302-minesweeper-alpha/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 64 2月  13 20:33 game
+
+cs1302-minesweeper-alpha/src/cs1302/game:
+总用量 24
+-rw-r--r--. 1 myid   452 2月  13 02:48 MinesweeperDriver.java
+-rw-r--r--. 1 myid 18854 2月  13 20:33 MinesweeperGame.java
+
+cs1302-minesweeper-alpha/tests:
+总用量 148
+-rw-r--r--. 1 myid  867 2月   9 12:09 tc01.combined.txt
+-rw-r--r--. 1 myid    0 2月   9 12:09 tc01.err.txt
+-rw-r--r--. 1 myid    2 2月   9 12:09 tc01.in.txt
+-rw-r--r--. 1 myid  867 2月   9 12:09 tc01.out.txt
+-rw-r--r--. 1 myid   24 2月   9 12:09 tc01.seed.txt
+-rw-r--r--. 1 myid 7396 2月   9 12:09 tc02.combined.txt
+-rw-r--r--. 1 myid  107 2月   9 12:09 tc02.err.txt
+-rw-r--r--. 1 myid  187 2月   9 12:09 tc02.in.txt
+-rw-r--r--. 1 myid 7289 2月   9 12:09 tc02.out.txt
+-rw-r--r--. 1 myid   30 2月   9 12:09 tc02.seed.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc03.combined.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc03.err.txt
+-rw-r--r--. 1 myid    1 2月   9 12:09 tc03.in.txt
+-rw-r--r--. 1 myid    0 2月   9 12:09 tc03.out.txt
+-rw-r--r--. 1 myid   22 2月   9 12:09 tc03.seed.txt
+-rw-r--r--. 1 myid 9125 2月   9 12:09 tc04.combined.txt
+-rw-r--r--. 1 myid  149 2月   9 12:09 tc04.err.txt
+-rw-r--r--. 1 myid  236 2月   9 12:09 tc04.in.txt
+-rw-r--r--. 1 myid 8976 2月   9 12:09 tc04.out.txt
+-rw-r--r--. 1 myid   30 2月   9 12:09 tc04.seed.txt
+-rw-r--r--. 1 myid  924 2月   9 12:09 tc05.combined.txt
+-rw-r--r--. 1 myid    0 2月   9 12:09 tc05.err.txt
+-rw-r--r--. 1 myid   12 2月   9 12:09 tc05.in.txt
+-rw-r--r--. 1 myid  924 2月   9 12:09 tc05.out.txt
+-rw-r--r--. 1 myid   30 2月   9 12:09 tc05.seed.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc06.combined.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc06.err.txt
+-rw-r--r--. 1 myid   44 2月   9 12:09 tc06.in.txt
+-rw-r--r--. 1 myid    0 2月   9 12:09 tc06.out.txt
+-rw-r--r--. 1 myid   24 2月   9 12:09 tc06.seed.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc07.combined.txt
+-rw-r--r--. 1 myid   91 2月   9 12:09 tc07.err.txt
+-rw-r--r--. 1 myid   44 2月   9 12:09 tc07.in.txt
+-rw-r--r--. 1 myid    0 2月   9 12:09 tc07.out.txt
+-rw-r--r--. 1 myid   24 2月   9 12:09 tc07.seed.txt
+-rw-r--r--. 1 myid   14 2月  13 02:05 tc08.seed.txt
+/home/myid/jz67385/cs1302-minesweeper-alpha:/home/myid/csci-1302

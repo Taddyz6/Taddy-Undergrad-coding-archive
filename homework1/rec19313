@@ -1,0 +1,42 @@
+homework1:
+总用量 4
+drwxr-xr-x. 3 myid 20 1月  23 21:15 bin
+-rw-r--r--. 1 myid  0 1月  23 21:28 rec19313
+drwxr-xr-x. 3 myid 28 1月  23 17:36 src
+-rw-r--r--. 1 myid 25 1月  23 21:25 SUBMISSION.md
+
+homework1/bin:
+总用量 0
+drwxr-xr-x. 4 myid 48 1月  23 21:16 cs1302
+
+homework1/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 25 1月  23 21:15 example
+drwxr-xr-x. 2 myid 28 1月  23 21:16 utility
+
+homework1/bin/cs1302/example:
+总用量 4
+-rw-r--r--. 1 myid 1266 1月  23 21:17 Hello.class
+
+homework1/bin/cs1302/utility:
+总用量 4
+-rw-r--r--. 1 myid 302 1月  23 21:16 MyMethod.class
+
+homework1/src:
+总用量 0
+drwxr-xr-x. 4 myid 48 1月  23 17:42 cs1302
+
+homework1/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 55 1月  23 21:17 example
+drwxr-xr-x. 2 myid 35 1月  23 21:12 utility
+
+homework1/src/cs1302/example:
+总用量 8
+-rw-r--r--. 1 myid 475 1月  23 21:17 Hello.java
+-rw-r--r--. 1 myid 494 1月  23 21:15 Hello.java~
+
+homework1/src/cs1302/utility:
+总用量 4
+-rw-r--r--. 1 myid 194 1月  23 19:54 MyMethod.java
+/home/myid/jz67385/homework1:/home/myid/csci-1302

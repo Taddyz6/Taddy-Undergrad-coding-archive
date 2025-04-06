@@ -1,0 +1,13 @@
+Compile:
+     make cl
+
+Run:
+    make or make run
+
+Checking Output:
+
+    gcc(GCC) 12.1.0
+
+    g++ (GCC) 12.1.0
+
+    GNU gdb (GDB) 9.2

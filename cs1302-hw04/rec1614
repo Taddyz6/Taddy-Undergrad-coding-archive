@@ -1,0 +1,116 @@
+cs1302-hw04:
+总用量 24
+drwxr-xr-x. 3 myid    20 2月  18 22:47 bin
+drwxr-xr-x. 6 myid  4096 2月  19 00:09 doc
+-rw-r--r--. 1 myid 14986 2月  18 20:15 README.md
+-rw-r--r--. 1 myid     0 2月  19 18:28 rec1614
+drwxr-xr-x. 3 myid    20 2月  18 20:15 src
+-rw-r--r--. 1 myid    79 2月  19 18:27 SUBMISSION.md
+
+cs1302-hw04/bin:
+总用量 0
+drwxr-xr-x. 3 myid 28 2月  18 22:47 cs1302
+
+cs1302-hw04/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 162 2月  19 00:24 shapes
+
+cs1302-hw04/bin/cs1302/shapes:
+总用量 24
+-rw-r--r--. 1 myid  635 2月  19 17:26 Circle.class
+-rw-r--r--. 1 myid  776 2月  19 17:26 Ellipse.class
+-rw-r--r--. 1 myid  627 2月  19 18:20 Rectangle.class
+-rw-r--r--. 1 myid  722 2月  19 17:25 Shape.class
+-rw-r--r--. 1 myid 1526 2月  19 18:22 ShapeDriver.class
+-rw-r--r--. 1 myid  516 2月  19 17:26 Square.class
+
+cs1302-hw04/doc:
+总用量 112
+-rw-r--r--. 1 myid  4879 2月  19 18:22 allclasses-index.html
+-rw-r--r--. 1 myid  2620 2月  19 18:22 allpackages-index.html
+drwxr-xr-x. 3 myid    28 2月  18 23:02 cs1302
+lrwxrwxrwx. 1 myid    34 2月  19 00:09 doc -> /home/myid/jz67385/cs1302-hw04/doc
+-rw-r--r--. 1 myid    14 2月  19 18:22 element-list
+-rw-r--r--. 1 myid  7809 2月  19 18:22 help-doc.html
+-rw-r--r--. 1 myid 13622 2月  19 18:22 index-all.html
+-rw-r--r--. 1 myid  1033 2月  19 18:22 index.html
+-rw-r--r--. 1 myid   464 2月  19 18:22 jquery-ui.overrides.css
+drwxr-xr-x. 2 myid    94 2月  18 23:02 legal
+-rw-r--r--. 1 myid  1750 2月  19 18:22 member-search-index.js
+-rw-r--r--. 1 myid    45 2月  19 18:22 module-search-index.js
+-rw-r--r--. 1 myid  3513 2月  19 18:22 overview-tree.html
+-rw-r--r--. 1 myid   120 2月  19 18:22 package-search-index.js
+drwxr-xr-x. 2 myid    48 2月  18 23:02 resources
+drwxr-xr-x. 3 myid   131 2月  18 23:02 script-dir
+-rw-r--r--. 1 myid  4030 2月  19 18:22 script.js
+-rw-r--r--. 1 myid 12762 2月  19 18:22 search.js
+-rw-r--r--. 1 myid 18648 2月  19 18:22 stylesheet.css
+-rw-r--r--. 1 myid    42 2月  19 18:22 tag-search-index.js
+-rw-r--r--. 1 myid   323 2月  19 18:22 type-search-index.js
+
+cs1302-hw04/doc/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 217 2月  19 18:18 shapes
+
+cs1302-hw04/doc/cs1302/shapes:
+总用量 104
+-rw-r--r--. 1 myid 15049 2月  19 18:22 Circle.html
+-rw-r--r--. 1 myid 15136 2月  19 18:22 Ellipse.html
+-rw-r--r--. 1 myid  5062 2月  19 18:22 package-summary.html
+-rw-r--r--. 1 myid  3403 2月  19 18:22 package-tree.html
+-rw-r--r--. 1 myid 13969 2月  19 18:22 Rectangle.html
+-rw-r--r--. 1 myid 10166 2月  19 18:22 ShapeDriver.html
+-rw-r--r--. 1 myid 14384 2月  19 18:22 Shape.html
+-rw-r--r--. 1 myid 14004 2月  19 18:22 Square.html
+
+cs1302-hw04/doc/legal:
+总用量 20
+-rw-r--r--. 1 myid 3244 2月  19 18:22 COPYRIGHT
+-rw-r--r--. 1 myid 2934 2月  19 18:22 jquery.md
+-rw-r--r--. 1 myid 1870 2月  19 18:22 jqueryUI.md
+-rw-r--r--. 1 myid 6186 2月  19 18:22 LICENSE
+
+cs1302-hw04/doc/resources:
+总用量 8
+-rw-r--r--. 1 myid 499 2月  19 18:22 glass.png
+-rw-r--r--. 1 myid 394 2月  19 18:22 x.png
+
+cs1302-hw04/doc/script-dir:
+总用量 148
+drwxr-xr-x. 2 myid  4096 2月  18 23:02 images
+-rw-r--r--. 1 myid 89476 2月  19 18:22 jquery-3.5.1.min.js
+-rw-r--r--. 1 myid 17416 2月  19 18:22 jquery-ui.min.css
+-rw-r--r--. 1 myid 32162 2月  19 18:22 jquery-ui.min.js
+-rw-r--r--. 1 myid  1787 2月  19 18:22 jquery-ui.structure.min.css
+
+cs1302-hw04/doc/script-dir/images:
+总用量 64
+-rw-r--r--. 1 myid  335 2月  19 18:22 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 2月  19 18:22 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 2月  19 18:22 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 2月  19 18:22 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 2月  19 18:22 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 2月  19 18:22 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 2月  19 18:22 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 2月  19 18:22 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 2月  19 18:22 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 2月  19 18:22 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 2月  19 18:22 ui-icons_cd0a0a_256x240.png
+
+cs1302-hw04/src:
+总用量 0
+drwxr-xr-x. 3 myid 28 2月  18 20:15 cs1302
+
+cs1302-hw04/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 128 2月  19 18:22 shapes
+
+cs1302-hw04/src/cs1302/shapes:
+总用量 24
+-rw-r--r--. 1 myid 2005 2月  18 20:15 Circle.java
+-rw-r--r--. 1 myid 2278 2月  18 20:15 Ellipse.java
+-rw-r--r--. 1 myid 1454 2月  18 22:49 Rectangle.java
+-rw-r--r--. 1 myid  879 2月  19 18:22 ShapeDriver.java
+-rw-r--r--. 1 myid 1476 2月  18 20:15 Shape.java
+-rw-r--r--. 1 myid 1410 2月  19 18:19 Square.java
+/home/myid/jz67385/cs1302-hw04:/home/myid/csci-1302

@@ -1,0 +1,25 @@
+cs1302-hw08:
+总用量 20
+drwxr-xr-x. 2 myid     6 4月  14 21:17 bin
+-rw-r--r--. 1 myid 12727 4月  13 22:38 README.md
+-rw-r--r--. 1 myid     0 4月  14 21:18 rec24837
+drwxr-xr-x. 3 myid    28 4月  13 22:39 src
+-rw-r--r--. 1 myid    25 4月  14 21:18 SUBMISSION.md
+
+cs1302-hw08/bin:
+总用量 0
+
+cs1302-hw08/src:
+总用量 0
+drwxr-xr-x. 3 myid 25 4月  13 22:39 cs1302
+
+cs1302-hw08/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 91 4月  14 21:16 gui
+
+cs1302-hw08/src/cs1302/gui:
+总用量 16
+-rw-r--r--. 1 myid 2005 4月  14 21:16 ImageApp.java
+-rw-r--r--. 1 myid  483 4月  14 20:03 ImageDriver.java
+-rw-r--r--. 1 myid 5316 4月  14 19:51 ImageLoader.java
+/home/myid/jz67385/cs1302-hw08:/home/myid/csci-1302

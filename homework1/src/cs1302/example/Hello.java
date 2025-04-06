@@ -1,0 +1,19 @@
+package cs1302.example;
+import cs1302.utility.MyMethod;
+public class Hello{
+    
+    public static void main(String[] args) {
+
+	java.util.Scanner input  = new java.util.Scanner(System.in);
+        String UserName = input.next();
+	System.out.println("Hello,<"+UserName+">");
+	System.out.println("Type your number");
+	int a = input.nextInt();
+	int b = input.nextInt();
+	int MaxNum = MyMethod.MaxNum(a,b);
+	System.out.println("The bigger value is:"+ MaxNum);	
+	
+
+      }
+}
+    

@@ -1,0 +1,6 @@
+cl: arrayutil.c main.c
+		gcc -o main main.c arrayutil.c -Wall -pedantic-errors
+run: cl
+		./main
+clean:
+		rm -f mainn

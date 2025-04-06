@@ -1,0 +1,46 @@
+cs1302-phased-list2:
+总用量 592
+drwxr-xr-x. 3 myid     28 4月   2 13:36 bin
+-rw-r--r--. 1 myid   7611 4月   1 11:27 phase2.jar
+-rw-r--r--. 1 myid 560908 4月   1 11:27 phase2.png
+-rw-r--r--. 1 myid  27875 4月   1 11:27 README.md
+-rw-r--r--. 1 myid      0 4月   8 23:23 rec10166
+-rw-r--r--. 1 myid   1306 4月   2 15:16 rec13654
+-rw-r--r--. 1 myid   1356 4月   5 21:38 rec21816
+drwxr-xr-x. 2 myid     44 4月   6 14:14 reports
+drwxr-xr-x. 3 myid     28 4月   1 11:35 src
+
+cs1302-phased-list2/bin:
+总用量 0
+drwxr-xr-x. 3 myid 16 4月   2 13:36 cs1302
+
+cs1302-phased-list2/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 141 4月   2 13:45 p2
+
+cs1302-phased-list2/bin/cs1302/p2:
+总用量 16
+-rw-r--r--. 1 myid 3214 4月   8 22:51 ArrayStringList.class
+-rw-r--r--. 1 myid 3139 4月   8 22:02 BaseStringList.class
+-rw-r--r--. 1 myid 3348 4月   8 23:03 LinkedStringList.class
+-rw-r--r--. 1 myid 1435 4月   5 21:37 StringListMain.class
+
+cs1302-phased-list2/reports:
+总用量 64
+-rw-r--r--. 1 myid 64086 4月   8 23:13 TEST-junit-jupiter.xml
+
+cs1302-phased-list2/src:
+总用量 0
+drwxr-xr-x. 3 myid 24 4月   1 11:35 cs1302
+
+cs1302-phased-list2/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 137 4月   8 23:12 p2
+
+cs1302-phased-list2/src/cs1302/p2:
+总用量 28
+-rw-r--r--. 1 myid 6558 4月   8 22:56 ArrayStringList.java
+-rw-r--r--. 1 myid 4855 4月   8 23:12 BaseStringList.java
+-rw-r--r--. 1 myid 7283 4月   8 23:09 LinkedStringList.java
+-rw-r--r--. 1 myid 1688 4月   5 21:34 StringListMain.java
+/home/myid/jz67385/cs1302-phased-list2:/home/myid/csci-1302

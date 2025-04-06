@@ -1,0 +1,34 @@
+cs1302-hw06:
+总用量 24
+drwxr-xr-x. 3 myid    28 3月  26 16:29 bin
+-rw-r--r--. 1 myid 18109 3月  26 16:00 README.md
+-rw-r--r--. 1 myid     0 3月  27 18:45 rec3448
+drwxr-xr-x. 3 myid    20 3月  26 16:00 src
+-rw-r--r--. 1 myid    24 3月  27 18:36 SUBMISSION.md
+
+cs1302-hw06/bin:
+总用量 0
+drwxr-xr-x. 3 myid 26 3月  26 16:29 cs1302
+
+cs1302-hw06/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 60 3月  26 16:29 hw06
+
+cs1302-hw06/bin/cs1302/hw06:
+总用量 12
+-rw-r--r--. 1 myid 2382 3月  26 16:29 Email.class
+-rw-r--r--. 1 myid 5096 3月  27 18:45 LambdaFun.class
+
+cs1302-hw06/src:
+总用量 0
+drwxr-xr-x. 3 myid 26 3月  26 16:00 cs1302
+
+cs1302-hw06/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 58 3月  27 18:45 hw06
+
+cs1302-hw06/src/cs1302/hw06:
+总用量 16
+-rw-r--r--. 1 myid 5551 3月  26 16:00 Email.java
+-rw-r--r--. 1 myid 4908 3月  27 18:45 LambdaFun.java
+/home/myid/jz67385/cs1302-hw06:/home/myid/csci-1302

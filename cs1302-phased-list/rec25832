@@ -1,0 +1,110 @@
+cs1302-phased-list:
+总用量 396
+drwxr-xr-x. 3 myid     28 3月  16 03:59 bin
+drwxr-xr-x. 6 myid   4096 3月  17 20:17 doc
+-rw-r--r--. 1 myid   4182 3月  14 10:31 phase1.jar
+-rw-r--r--. 1 myid 346395 3月  14 10:31 phase1.png
+-rw-r--r--. 1 myid  44348 3月  14 10:31 README.md
+-rw-r--r--. 1 myid      0 3月  17 21:01 rec25832
+drwxr-xr-x. 3 myid     28 3月  16 03:59 src
+
+cs1302-phased-list/bin:
+总用量 0
+drwxr-xr-x. 3 myid 24 3月  16 03:59 cs1302
+
+cs1302-phased-list/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 113 3月  16 04:10 p2
+
+cs1302-phased-list/bin/cs1302/p2:
+总用量 16
+-rw-r--r--. 1 myid 3528 3月  17 20:57 ArrayStringList.class
+-rw-r--r--. 1 myid  919 3月  17 20:57 BaseStringList.class
+-rw-r--r--. 1 myid 2488 3月  16 17:22 Driver.class
+-rw-r--r--. 1 myid 3631 3月  17 20:57 LinkedStringList.class
+
+cs1302-phased-list/doc:
+总用量 108
+-rw-r--r--. 1 myid  3772 3月  17 20:40 allclasses-index.html
+-rw-r--r--. 1 myid  2604 3月  17 20:40 allpackages-index.html
+drwxr-xr-x. 3 myid    24 3月  17 20:17 cs1302
+-rw-r--r--. 1 myid    10 3月  17 20:40 element-list
+-rw-r--r--. 1 myid  7801 3月  17 20:40 help-doc.html
+-rw-r--r--. 1 myid 15823 3月  17 20:40 index-all.html
+-rw-r--r--. 1 myid  1013 3月  17 20:40 index.html
+-rw-r--r--. 1 myid   464 3月  17 20:40 jquery-ui.overrides.css
+drwxr-xr-x. 2 myid    94 3月  17 20:17 legal
+-rw-r--r--. 1 myid  2998 3月  17 20:40 member-search-index.js
+-rw-r--r--. 1 myid    45 3月  17 20:40 module-search-index.js
+-rw-r--r--. 1 myid  3228 3月  17 20:40 overview-tree.html
+-rw-r--r--. 1 myid   116 3月  17 20:40 package-search-index.js
+drwxr-xr-x. 2 myid    48 3月  17 20:17 resources
+drwxr-xr-x. 3 myid   155 3月  17 20:17 script-dir
+-rw-r--r--. 1 myid  4030 3月  17 20:40 script.js
+-rw-r--r--. 1 myid 12762 3月  17 20:40 search.js
+-rw-r--r--. 1 myid 18648 3月  17 20:40 stylesheet.css
+-rw-r--r--. 1 myid    42 3月  17 20:40 tag-search-index.js
+-rw-r--r--. 1 myid   256 3月  17 20:40 type-search-index.js
+
+cs1302-phased-list/doc/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 162 3月  17 20:17 p2
+
+cs1302-phased-list/doc/cs1302/p2:
+总用量 96
+-rw-r--r--. 1 myid 28059 3月  17 20:40 ArrayStringList.html
+-rw-r--r--. 1 myid 20363 3月  17 20:40 BaseStringList.html
+-rw-r--r--. 1 myid 10055 3月  17 20:40 Driver.html
+-rw-r--r--. 1 myid 25547 3月  17 20:40 LinkedStringList.html
+-rw-r--r--. 1 myid  4047 3月  17 20:40 package-summary.html
+-rw-r--r--. 1 myid  3158 3月  17 20:40 package-tree.html
+
+cs1302-phased-list/doc/legal:
+总用量 20
+-rw-r--r--. 1 myid 3244 3月  17 20:40 COPYRIGHT
+-rw-r--r--. 1 myid 2934 3月  17 20:40 jquery.md
+-rw-r--r--. 1 myid 1870 3月  17 20:40 jqueryUI.md
+-rw-r--r--. 1 myid 6186 3月  17 20:40 LICENSE
+
+cs1302-phased-list/doc/resources:
+总用量 8
+-rw-r--r--. 1 myid 499 3月  17 20:40 glass.png
+-rw-r--r--. 1 myid 394 3月  17 20:40 x.png
+
+cs1302-phased-list/doc/script-dir:
+总用量 148
+drwxr-xr-x. 2 myid  4096 3月  17 20:17 images
+-rw-r--r--. 1 myid 89476 3月  17 20:40 jquery-3.5.1.min.js
+-rw-r--r--. 1 myid 17416 3月  17 20:40 jquery-ui.min.css
+-rw-r--r--. 1 myid 32162 3月  17 20:40 jquery-ui.min.js
+-rw-r--r--. 1 myid  1787 3月  17 20:40 jquery-ui.structure.min.css
+
+cs1302-phased-list/doc/script-dir/images:
+总用量 64
+-rw-r--r--. 1 myid  335 3月  17 20:40 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 3月  17 20:40 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 3月  17 20:40 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 3月  17 20:40 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 3月  17 20:40 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 3月  17 20:40 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 3月  17 20:40 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 3月  17 20:40 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 3月  17 20:40 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 3月  17 20:40 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 3月  17 20:40 ui-icons_cd0a0a_256x240.png
+
+cs1302-phased-list/src:
+总用量 0
+drwxr-xr-x. 3 myid 24 3月  16 03:59 cs1302
+
+cs1302-phased-list/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 129 3月  17 20:40 p2
+
+cs1302-phased-list/src/cs1302/p2:
+总用量 24
+-rw-r--r--. 1 myid 7266 3月  17 20:39 ArrayStringList.java
+-rw-r--r--. 1 myid 2006 3月  17 20:38 BaseStringList.java
+-rw-r--r--. 1 myid 2858 3月  17 20:40 Driver.java
+-rw-r--r--. 1 myid 6779 3月  17 20:31 LinkedStringList.java
+/home/myid/jz67385/cs1302-phased-list:/home/myid/csci-1302

@@ -1,0 +1,33 @@
+Author:
+- Name:Junhao Zhang
+- UGA ID:811549833
+- Name:Yihua Zhang
+- UGA ID:811175984
+
+Table of Contents:
+1. Introduction
+2. Compilation and Execution
+3. Cleaning the Project
+4. Contributions
+
+
+1. Introduction:
+This project contains the implementations of the `head` and `wc` utilities in C. The utilities allow you to display the beginning of a file and count lines, words, and bytes.
+
+
+2. Compilation and Execution:
+To compile the utilities, open your terminal and navigate to the project directory. Then, follow these steps:
+
+Compile the Programs:
+Use the `make` command to compile the `head` and `wc` utilities:
+
+Run the program:
+./head [-n number] [files...]
+./wc [-clw] [files...]
+
+3.Cleaning the Project
+To remove object code and executables, you can use the `make clean` command
+
+4.Contributions:
+    Junhao Zhang:50%
+    Yihua Zhang:50%

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cs1302.hw03.impl","l":"Car"},{"p":"cs1302.hw03.contract","l":"Drivable"},{"p":"cs1302.hw03","l":"Driver"},{"p":"cs1302.hw03.impl","l":"Train"}];updateSearchResults();

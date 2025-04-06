@@ -1,0 +1,35 @@
+cs1302-hw05:
+总用量 36
+drwxr-xr-x. 3 myid    28 3月  13 23:17 bin
+-rw-r--r--. 1 myid  3979 3月  12 16:25 CP1.md
+-rw-r--r--. 1 myid  4182 3月   7 08:01 phase1.jar
+-rw-r--r--. 1 myid 16014 3月  12 16:25 README.md
+-rw-r--r--. 1 myid   910 3月  14 00:13 rec32322
+-rw-r--r--. 1 myid     0 3月  14 10:18 rec9783
+drwxr-xr-x. 3 myid    20 3月  12 16:25 src
+-rw-r--r--. 1 myid   337 3月  14 10:17 SUBMISSION.md
+
+cs1302-hw05/bin:
+总用量 0
+drwxr-xr-x. 3 myid 18 3月  13 23:17 cs1302
+
+cs1302-hw05/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 34 3月  13 23:17 hw05
+
+cs1302-hw05/bin/cs1302/hw05:
+总用量 4
+-rw-r--r--. 1 myid 1166 3月  14 00:10 Driver.class
+
+cs1302-hw05/src:
+总用量 0
+drwxr-xr-x. 3 myid 26 3月  12 16:25 cs1302
+
+cs1302-hw05/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 39 3月  14 00:11 hw05
+
+cs1302-hw05/src/cs1302/hw05:
+总用量 4
+-rw-r--r--. 1 myid 1836 3月  14 00:09 Driver.java
+/home/myid/jz67385/cs1302-hw05:/home/myid/csci-1302

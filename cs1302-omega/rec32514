@@ -1,0 +1,61 @@
+cs1302-omega:
+total 36
+-rw-r--r--. 1 myid   15 May  8 18:29 README.md
+drwxr-xr-x. 2 myid    6 May  8 18:59 bin
+-rw-r--r--. 1 myid  197 May  9 01:15 compile.sh
+drwxr-xr-x. 2 myid   28 May  9 12:51 meta
+-rw-r--r--. 1 myid 7620 May  9 01:16 pom.xml
+-rw-r--r--. 1 myid  105 May  9 01:16 prepare-merge.sh
+-rw-r--r--. 1 myid 2069 May  9 01:23 rec12957
+-rw-r--r--. 1 myid 2015 May  9 12:55 rec23367
+-rw-r--r--. 1 myid    0 May  9 13:01 rec32514
+drwxr-xr-x. 2 myid 4096 May  8 18:29 resources
+-rw-r--r--. 1 myid  271 May  9 01:17 site.sh
+drwxr-xr-x. 3 myid   54 May  9 01:03 src
+
+cs1302-omega/bin:
+total 0
+
+cs1302-omega/meta:
+total 4
+-rw-r--r--. 1 myid 65 May  9 12:51 ATTRIBUTION.md
+
+cs1302-omega/resources:
+total 2140
+-rw-r--r--. 1 myid    9312 May  8 18:29 astroid-big-1.JPG
+-rw-r--r--. 1 myid    9475 May  8 18:29 astroid-big-2.JPG
+-rw-r--r--. 1 myid    2253 May  8 18:29 astroid-big-3.JPG
+-rw-r--r--. 1 myid    8089 May  8 18:29 astroid-small-1.JPG
+-rw-r--r--. 1 myid    8049 May  8 18:29 astroid-small-2.JPG
+-rw-r--r--. 1 myid     781 May  8 18:29 cat_idle.gif
+-rw-r--r--. 1 myid      41 May  8 18:29 config.properties
+-rw-r--r--. 1 myid  582183 May  8 18:29 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  8 18:29 readme-newrepo.png
+-rw-r--r--. 1 myid    8155 May  8 18:29 spaceship.JPG
+
+cs1302-omega/src:
+total 4
+drwxr-xr-x. 3 myid  26 May  9 01:01 main
+-rw-r--r--. 1 myid 306 May  8 18:29 module-info.java
+
+cs1302-omega/src/main:
+total 0
+drwxr-xr-x. 3 myid 28 May  9 01:01 java
+
+cs1302-omega/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 26 May  9 01:01 cs1302
+
+cs1302-omega/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 139 May  9 12:43 game
+
+cs1302-omega/src/main/java/cs1302/game:
+total 36
+-rw-r--r--. 1 myid 9245 May  9 12:42 AstroidFinal.java
+-rw-r--r--. 1 myid 3713 May  9 12:42 AstroidFinalApp.java
+-rw-r--r--. 1 myid 2901 May  9 12:42 AstroidRock.java
+-rw-r--r--. 1 myid 1486 May  9 12:43 Bullet.java
+-rw-r--r--. 1 myid 6589 May  9 12:43 Game.java
+-rw-r--r--. 1 myid  781 May  8 18:29 cat_idle.gif
+/home/myid/jz67385/cs1302-omega:/home/myid/csci-1302

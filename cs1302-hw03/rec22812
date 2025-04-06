@@ -1,0 +1,139 @@
+cs1302-hw03:
+总用量 24
+drwxr-xr-x. 3 myid    46 2月   6 03:47 bin
+drwxr-xr-x. 6 myid  4096 2月   6 03:00 doc
+-rw-r--r--. 1 myid 12824 2月   6 02:41 README.md
+-rw-r--r--. 1 myid     0 2月   6 23:16 rec22812
+drwxr-xr-x. 3 myid    28 2月   6 02:41 src
+-rw-r--r--. 1 myid    76 2月   6 22:00 SUBMISSION.md
+
+cs1302-hw03/bin:
+总用量 0
+drwxr-xr-x. 3 myid 26 2月   6 03:47 cs1302
+
+cs1302-hw03/bin/cs1302:
+总用量 0
+drwxr-xr-x. 4 myid 70 2月   6 04:36 hw03
+
+cs1302-hw03/bin/cs1302/hw03:
+总用量 4
+drwxr-xr-x. 2 myid   36 2月   6 03:47 contract
+-rw-r--r--. 1 myid 1643 2月   6 23:15 Driver.class
+drwxr-xr-x. 2 myid   54 2月   6 06:31 impl
+
+cs1302-hw03/bin/cs1302/hw03/contract:
+总用量 4
+-rw-r--r--. 1 myid 177 2月   6 23:14 Drivable.class
+
+cs1302-hw03/bin/cs1302/hw03/impl:
+总用量 8
+-rw-r--r--. 1 myid  994 2月   6 23:15 Car.class
+-rw-r--r--. 1 myid 1000 2月   6 23:15 Train.class
+
+cs1302-hw03/doc:
+总用量 112
+-rw-r--r--. 1 myid  4816 2月   6 23:15 allclasses-index.html
+-rw-r--r--. 1 myid  2927 2月   6 23:15 allpackages-index.html
+drwxr-xr-x. 3 myid    26 2月   6 02:43 cs1302
+lrwxrwxrwx. 1 myid    34 2月   6 03:00 doc -> /home/myid/jz67385/cs1302-hw03/doc
+-rw-r--r--. 1 myid    50 2月   6 23:15 element-list
+-rw-r--r--. 1 myid  8079 2月   6 23:15 help-doc.html
+-rw-r--r--. 1 myid  9766 2月   6 23:15 index-all.html
+-rw-r--r--. 1 myid  3104 2月   6 23:15 index.html
+-rw-r--r--. 1 myid   464 2月   6 23:15 jquery-ui.overrides.css
+drwxr-xr-x. 2 myid    94 2月   6 02:43 legal
+-rw-r--r--. 1 myid  1128 2月   6 23:15 member-search-index.js
+-rw-r--r--. 1 myid    45 2月   6 23:15 module-search-index.js
+-rw-r--r--. 1 myid   913 2月   6 23:15 overview-summary.html
+-rw-r--r--. 1 myid  3785 2月   6 23:15 overview-tree.html
+-rw-r--r--. 1 myid   172 2月   6 23:15 package-search-index.js
+drwxr-xr-x. 2 myid    48 2月   6 02:43 resources
+drwxr-xr-x. 3 myid   155 2月   6 02:43 script-dir
+-rw-r--r--. 1 myid  4030 2月   6 23:15 script.js
+-rw-r--r--. 1 myid 12762 2月   6 23:15 search.js
+-rw-r--r--. 1 myid 18648 2月   6 23:15 stylesheet.css
+-rw-r--r--. 1 myid    42 2月   6 23:15 tag-search-index.js
+-rw-r--r--. 1 myid   254 2月   6 23:15 type-search-index.js
+
+cs1302-hw03/doc/cs1302:
+总用量 0
+drwxr-xr-x. 4 myid 130 2月   6 02:43 hw03
+
+cs1302-hw03/doc/cs1302/hw03:
+总用量 20
+drwxr-xr-x. 2 myid    96 2月   6 02:43 contract
+-rw-r--r--. 1 myid 12133 2月   6 23:15 Driver.html
+drwxr-xr-x. 2 myid   113 2月   6 22:25 impl
+-rw-r--r--. 1 myid  3837 2月   6 23:15 package-summary.html
+-rw-r--r--. 1 myid  2925 2月   6 23:15 package-tree.html
+
+cs1302-hw03/doc/cs1302/hw03/contract:
+总用量 20
+-rw-r--r--. 1 myid 8699 2月   6 23:15 Drivable.html
+-rw-r--r--. 1 myid 3929 2月   6 23:15 package-summary.html
+-rw-r--r--. 1 myid 2793 2月   6 23:15 package-tree.html
+
+cs1302-hw03/doc/cs1302/hw03/impl:
+总用量 44
+-rw-r--r--. 1 myid 15385 2月   6 23:15 Car.html
+-rw-r--r--. 1 myid  4143 2月   6 23:15 package-summary.html
+-rw-r--r--. 1 myid  3354 2月   6 23:15 package-tree.html
+-rw-r--r--. 1 myid 15419 2月   6 23:15 Train.html
+
+cs1302-hw03/doc/legal:
+总用量 20
+-rw-r--r--. 1 myid 3244 2月   6 23:15 COPYRIGHT
+-rw-r--r--. 1 myid 2934 2月   6 23:15 jquery.md
+-rw-r--r--. 1 myid 1870 2月   6 23:15 jqueryUI.md
+-rw-r--r--. 1 myid 6186 2月   6 23:15 LICENSE
+
+cs1302-hw03/doc/resources:
+总用量 8
+-rw-r--r--. 1 myid 499 2月   6 23:15 glass.png
+-rw-r--r--. 1 myid 394 2月   6 23:15 x.png
+
+cs1302-hw03/doc/script-dir:
+总用量 148
+drwxr-xr-x. 2 myid  4096 2月   6 02:43 images
+-rw-r--r--. 1 myid 89476 2月   6 23:15 jquery-3.5.1.min.js
+-rw-r--r--. 1 myid 17416 2月   6 23:15 jquery-ui.min.css
+-rw-r--r--. 1 myid 32162 2月   6 23:15 jquery-ui.min.js
+-rw-r--r--. 1 myid  1787 2月   6 23:15 jquery-ui.structure.min.css
+
+cs1302-hw03/doc/script-dir/images:
+总用量 64
+-rw-r--r--. 1 myid  335 2月   6 23:15 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 2月   6 23:15 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 2月   6 23:15 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 2月   6 23:15 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 2月   6 23:15 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 2月   6 23:15 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 2月   6 23:15 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 2月   6 23:15 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 2月   6 23:15 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 2月   6 23:15 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 2月   6 23:15 ui-icons_cd0a0a_256x240.png
+
+cs1302-hw03/src:
+总用量 0
+drwxr-xr-x. 3 myid 26 2月   6 02:41 cs1302
+
+cs1302-hw03/src/cs1302:
+总用量 0
+drwxr-xr-x. 4 myid 69 2月   6 23:13 hw03
+
+cs1302-hw03/src/cs1302/hw03:
+总用量 4
+drwxr-xr-x. 2 myid   35 2月   6 23:09 contract
+-rw-r--r--. 1 myid 2040 2月   6 23:13 Driver.java
+drwxr-xr-x. 2 myid   52 2月   6 23:14 impl
+
+cs1302-hw03/src/cs1302/hw03/contract:
+总用量 4
+-rw-r--r--. 1 myid 909 2月   6 23:05 Drivable.java
+
+cs1302-hw03/src/cs1302/hw03/impl:
+总用量 8
+-rw-r--r--. 1 myid 1793 2月   6 23:00 Car.java
+-rw-r--r--. 1 myid 1804 2月   6 23:14 Train.java
+/home/myid/jz67385/cs1302-hw03:/home/myid/csci-1302

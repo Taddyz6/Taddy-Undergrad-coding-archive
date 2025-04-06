@@ -1,0 +1,91 @@
+cs1302-gallery:
+总用量 60
+-rwxr-xr-x. 1 myid    51 4月  17 22:13 compile.sh
+-rwxr-xr-x. 1 myid   725 4月  17 22:13 deps.sh
+-rw-r--r--. 1 myid  3134 4月  17 22:13 pom.xml
+-rw-r--r--. 1 myid 44802 4月  18 14:00 README.md
+-rw-r--r--. 1 myid     0 4月  26 21:27 rec14085
+drwxr-xr-x. 2 myid    87 4月  17 22:13 resources
+-rwxr-xr-x. 1 myid   101 4月  17 22:13 run.sh
+drwxr-xr-x. 3 myid    18 4月  17 22:13 src
+drwxr-xr-x. 5 myid    66 4月  26 21:24 target
+
+cs1302-gallery/resources:
+总用量 1140
+-rw-r--r--. 1 myid   4730 4月  17 22:13 default.png
+-rw-r--r--. 1 myid 232527 4月  17 22:13 mockup_thumb.png
+-rw-r--r--. 1 myid 923532 4月  17 22:13 screenshot.png
+
+cs1302-gallery/src:
+总用量 0
+drwxr-xr-x. 3 myid 26 4月  17 22:13 main
+
+cs1302-gallery/src/main:
+总用量 0
+drwxr-xr-x. 3 myid 56 4月  17 22:13 java
+
+cs1302-gallery/src/main/java:
+总用量 4
+drwxr-xr-x. 3 myid  29 4月  17 22:13 cs1302
+-rw-r--r--. 1 myid 290 4月  17 22:13 module-info.java
+
+cs1302-gallery/src/main/java/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 127 4月  26 21:15 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+总用量 28
+-rw-r--r--. 1 myid 15918 4月  26 21:15 GalleryApp.java
+-rw-r--r--. 1 myid   790 4月  17 22:13 GalleryDriver.java
+-rw-r--r--. 1 myid   396 4月  17 22:13 ItunesResponse.java
+-rw-r--r--. 1 myid   716 4月  17 22:13 ItunesResult.java
+
+cs1302-gallery/target:
+总用量 0
+drwxr-xr-x. 3 myid 57 4月  26 21:24 classes
+drwxr-xr-x. 3 myid 33 4月  26 21:24 generated-sources
+drwxr-xr-x. 3 myid 43 4月  26 21:24 maven-status
+
+cs1302-gallery/target/classes:
+总用量 4
+drwxr-xr-x. 3 myid  21 4月  26 21:24 cs1302
+-rw-r--r--. 1 myid 299 4月  26 21:24 module-info.class
+
+cs1302-gallery/target/classes/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 245 4月  26 21:24 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+总用量 40
+-rw-r--r--. 1 myid  1952 4月  26 21:24 GalleryApp$1.class
+-rw-r--r--. 1 myid 14627 4月  26 21:24 GalleryApp.class
+-rw-r--r--. 1 myid   568 4月  26 21:24 GalleryApp$ItunesResponse.class
+-rw-r--r--. 1 myid   489 4月  26 21:24 GalleryApp$ItunesResult.class
+-rw-r--r--. 1 myid  1123 4月  26 21:24 GalleryDriver.class
+-rw-r--r--. 1 myid   374 4月  26 21:24 ItunesResponse.class
+-rw-r--r--. 1 myid   373 4月  26 21:24 ItunesResult.class
+
+cs1302-gallery/target/generated-sources:
+总用量 0
+drwxr-xr-x. 2 myid 6 4月  26 21:24 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+总用量 0
+
+cs1302-gallery/target/maven-status:
+总用量 0
+drwxr-xr-x. 3 myid 29 4月  26 21:24 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+总用量 0
+drwxr-xr-x. 3 myid 37 4月  26 21:24 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+总用量 0
+drwxr-xr-x. 2 myid 64 4月  26 21:24 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+总用量 8
+-rw-r--r--. 1 myid 281 4月  26 21:24 createdFiles.lst
+-rw-r--r--. 1 myid 390 4月  26 21:24 inputFiles.lst
+/home/myid/jz67385/cs1302-gallery:/home/myid/csci-1302

@@ -1,0 +1,39 @@
+cs1302-javafx:
+总用量 40
+drwxr-xr-x. 3 myid    20 3月  28 17:28 bin
+drwxr-xr-x. 2 myid     6 3月  28 17:17 doc
+-rw-r--r--. 1 myid 13289 3月  28 17:17 javafx-bookmarks.md
+-rw-r--r--. 1 myid 17701 3月  28 17:17 javafx.md
+-rw-r--r--. 1 myid     0 3月  31 17:51 rec1635
+drwxr-xr-x. 3 myid    28 3月  28 17:17 src
+-rw-r--r--. 1 myid    24 3月  31 17:50 SUBMISSION.md
+
+cs1302-javafx/bin:
+总用量 0
+drwxr-xr-x. 3 myid 25 3月  28 17:28 cs1302
+
+cs1302-javafx/bin/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 69 3月  28 17:28 gui
+
+cs1302-javafx/bin/cs1302/gui:
+总用量 8
+-rw-r--r--. 1 myid 1770 3月  31 17:48 ExampleApp.class
+-rw-r--r--. 1 myid  853 3月  31 17:48 ExampleDriver.class
+
+cs1302-javafx/doc:
+总用量 0
+
+cs1302-javafx/src:
+总用量 0
+drwxr-xr-x. 3 myid 25 3月  28 17:17 cs1302
+
+cs1302-javafx/src/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 67 3月  31 17:48 gui
+
+cs1302-javafx/src/cs1302/gui:
+总用量 8
+-rw-r--r--. 1 myid 1059 3月  31 17:48 ExampleApp.java
+-rw-r--r--. 1 myid  710 3月  28 17:17 ExampleDriver.java
+/home/myid/jz67385/cs1302-javafx:/home/myid/csci-1302

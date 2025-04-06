@@ -1,0 +1,19 @@
+Instructions:
+    Compile program: make cl
+    Run program: program run by typing ./fifteen 3
+        ./fifteen 3 < 3x3.txt
+        ./fifteen 4 < 4x4.txt
+
+Questions:
+1. Besides 4x4, what other dimensions does the framework allow?
+the framework can be decide by DIM_MIN and DIM_MAX. So the dimensions from 3x3 to 9x9 are the framework allow.
+2. What data structure is used for representation of the game board?
+Dtat structure is used 2D array for representation of the game board.
+3. What function is called to greet the player?
+The function called to greet the player is "greet()" This function if for welcome the player when they play this game.
+4. What functions do you need to implement?
+I need to implement the function:
+    'init()'function initializes the game board with the initial configuration of tiles.
+    'draw()'function is responsible for displaying the current state of the game board.
+    'move()'function checks if a move is legal and moves a tile if it's possible.
+    'won()'  function checks if the game has been won.

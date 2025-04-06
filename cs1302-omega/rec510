@@ -1,0 +1,62 @@
+cs1302-omega:
+总用量 40
+drwxr-xr-x. 2 myid    6 5月   8 18:59 bin
+-rw-r--r--. 1 myid  197 5月   9 01:15 compile.sh
+drwxr-xr-x. 2 myid   28 5月   9 12:51 meta
+-rw-r--r--. 1 myid 7620 5月   9 01:16 pom.xml
+-rw-r--r--. 1 myid  105 5月   9 01:16 prepare-merge.sh
+-rw-r--r--. 1 myid   15 5月   8 18:29 README.md
+-rw-r--r--. 1 myid 2069 5月   9 01:23 rec12957
+-rw-r--r--. 1 myid 2015 5月   9 12:55 rec23367
+-rw-r--r--. 1 myid 2061 5月   9 13:01 rec32514
+-rw-r--r--. 1 myid    0 5月   9 13:02 rec510
+drwxr-xr-x. 2 myid 4096 5月   8 18:29 resources
+-rw-r--r--. 1 myid  271 5月   9 01:17 site.sh
+drwxr-xr-x. 3 myid   54 5月   9 01:03 src
+
+cs1302-omega/bin:
+总用量 0
+
+cs1302-omega/meta:
+总用量 4
+-rw-r--r--. 1 myid 65 5月   9 12:51 ATTRIBUTION.md
+
+cs1302-omega/resources:
+总用量 2140
+-rw-r--r--. 1 myid    9312 5月   8 18:29 astroid-big-1.JPG
+-rw-r--r--. 1 myid    9475 5月   8 18:29 astroid-big-2.JPG
+-rw-r--r--. 1 myid    2253 5月   8 18:29 astroid-big-3.JPG
+-rw-r--r--. 1 myid    8089 5月   8 18:29 astroid-small-1.JPG
+-rw-r--r--. 1 myid    8049 5月   8 18:29 astroid-small-2.JPG
+-rw-r--r--. 1 myid     781 5月   8 18:29 cat_idle.gif
+-rw-r--r--. 1 myid      41 5月   8 18:29 config.properties
+-rw-r--r--. 1 myid  582183 5月   8 18:29 readme-banner.png
+-rw-r--r--. 1 myid 1540930 5月   8 18:29 readme-newrepo.png
+-rw-r--r--. 1 myid    8155 5月   8 18:29 spaceship.JPG
+
+cs1302-omega/src:
+总用量 4
+drwxr-xr-x. 3 myid  26 5月   9 01:01 main
+-rw-r--r--. 1 myid 306 5月   8 18:29 module-info.java
+
+cs1302-omega/src/main:
+总用量 0
+drwxr-xr-x. 3 myid 28 5月   9 01:01 java
+
+cs1302-omega/src/main/java:
+总用量 0
+drwxr-xr-x. 3 myid 26 5月   9 01:01 cs1302
+
+cs1302-omega/src/main/java/cs1302:
+总用量 0
+drwxr-xr-x. 2 myid 139 5月   9 12:43 game
+
+cs1302-omega/src/main/java/cs1302/game:
+总用量 36
+-rw-r--r--. 1 myid 3713 5月   9 12:42 AstroidFinalApp.java
+-rw-r--r--. 1 myid 9245 5月   9 12:42 AstroidFinal.java
+-rw-r--r--. 1 myid 2901 5月   9 12:42 AstroidRock.java
+-rw-r--r--. 1 myid 1486 5月   9 12:43 Bullet.java
+-rw-r--r--. 1 myid  781 5月   8 18:29 cat_idle.gif
+-rw-r--r--. 1 myid 6589 5月   9 12:43 Game.java
+/home/myid/jz67385/cs1302-omega:/home/myid/csci-1302
