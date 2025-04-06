@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity2">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/nav_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#009688"
+        android:backgroundTintMode="src_in"
+        android:src="@drawable/ic_navic_foreground"
+        app:fabCustomSize="200dp"
+        app:maxImageSize="300dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nav_button"
+        android:layout_centerHorizontal="true"
+        android:text="Click to navigate to your seat"
+        android:textStyle="bold" />
+
+
+    <ImageButton
+        android:id="@+id/Left_btn2"
+        android:layout_width="138dp"
+        android:layout_height="87dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-6dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_navic_foreground"
+        android:backgroundTint="#8BC34A"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+
+    <ImageButton
+        android:id="@+id/Mid_btn2"
+        android:layout_width="142dp"
+        android:layout_height="87dp"
+        android:layout_alignRight="@+id/MidBtn"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_qr_foreground"
+        android:backgroundTint="#03A9F4"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+    <ImageButton
+        android:id="@+id/Right_btn2"
+        android:layout_width="138dp"
+        android:layout_height="87dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-6dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_food_foreground"
+        android:backgroundTint="#FF9800"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+
+</RelativeLayout>

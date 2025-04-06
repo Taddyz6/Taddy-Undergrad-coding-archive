@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity3">
+    <Button
+        android:layout_marginTop="270dp"
+        android:id="@+id/btnCam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="QR Scanner"
+        android:layout_alignStart="@id/textView2"
+        android:layout_alignTop="@id/textView2"
+        android:textAllCaps="false"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Click button to Scan QR code on your seat"
+        android:textStyle="bold" />
+
+
+    <ImageButton
+        android:id="@+id/Left_btn3"
+        android:layout_width="138dp"
+        android:layout_height="87dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-6dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_navic_foreground"
+        android:backgroundTint="#8BC34A"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+
+    <ImageButton
+        android:id="@+id/Mid_btn3"
+        android:layout_width="142dp"
+        android:layout_height="87dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_qr_foreground"
+        android:backgroundTint="#03A9F4"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+    <ImageButton
+        android:id="@+id/Right_btn3"
+        android:layout_width="138dp"
+        android:layout_height="87dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-6dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/ic_food_foreground"
+        android:backgroundTint="#FF9800"
+        android:backgroundTintMode="add"
+        android:maxWidth="300dp" />
+
+
+
+
+
+
+</RelativeLayout>

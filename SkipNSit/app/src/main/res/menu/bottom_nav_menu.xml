@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item"
+        android:icon="@drawable/ic_map_foreground"
+        android:title="NAV" />
+
+    <item
+        android:id="@+id/qr_item"
+        android:icon="@drawable/ic_qr_foreground"
+        android:title="QRCODE" />
+
+    <item
+        android:id="@+id/food_item"
+        android:icon="@drawable/ic_food_foreground"
+        android:title="FOOD" />
+</menu>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/WelcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="70mm"
+        android:text="Enter your code to start"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/WelcomeText"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="CODE"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="444dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/WelcomeText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-14dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="31dp"
+        android:layout_toEndOf="@id/editTextTextPassword"
+        android:contentDescription="TODO"
+        android:minHeight="48dp"
+        android:rotationY="180"
+        app:srcCompat="@android:drawable/ic_menu_send" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="205dp"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:maxWidth="200dp"
+        app:srcCompat="@drawable/screen_shot_2022_02_19_at_10_01_34_pm" />
+
+
+</RelativeLayout>

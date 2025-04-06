@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_QR_background.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/ic_QR_foreground.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/ic_food_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_food_foreground.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_map_background.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/ic_map_foreground.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/ic_navic_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_navic_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_qr_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_qr_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/roundcorner.xml" value="0.178" />
+        <entry key="app/src/main/res/font/baloo_bhai.xml" value="0.1814814814814815" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24072265625000003" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.26722564697265627" />
+        <entry key="app/src/main/res/layout/activity_main_default_page.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.18243243243243243" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_QR_round.xml" value="0.106" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_map.xml" value="0.106" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.24078979492187502" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
