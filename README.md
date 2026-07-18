@@ -106,7 +106,7 @@ Possible future improvements include:
 
 ## Author
 
-**Taddy**
+**Junhao Zhang**
 
 GitHub: [@Taddyz6](https://github.com/Taddyz6)
 
