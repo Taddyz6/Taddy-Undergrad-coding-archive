@@ -274,6 +274,6 @@ Some projects may contain errors, incomplete implementations, deprecated depende
 
 <div align="center">
 
-### ⭐ Selected undergraduate work, preserved as part of the learning journey.
+### ⭐ Undergraduate work preserved as part of the learning journey. We did it！
 
 </div>
